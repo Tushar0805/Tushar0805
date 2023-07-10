@@ -1,32 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-
-  .body{
-    font-family: 'Poppins', sans-serif;
-  }
-    
-</head>
-<body>
-
-    <p>
-        - 👋 Hi, I’m Tushar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at tushar20478@iiitd.ac.in
-    </p>
-
-    <h3 align="center" >
+<h3 align="center" >
             Hi, My name is Tushar
         <p>I am pursing B.tech from Indraprastha Institute of Information technology</p>
     </h3>
@@ -47,12 +19,3 @@
     <a href="https://github.com/Tushar0805"><img align="left" src="https://camo.githubusercontent.com/9e1e581e471c46277e85998d1617041759f8fc1e1db091ee5415685a1a71ec92/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e7376672f3134353270782d435353335f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="max-width: 100%;"></a>
     <br><br>
     </p>
-    
-</body>
-</html>
-
-
-<!---
-Tushar0805/Tushar0805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
