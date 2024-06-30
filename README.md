@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm Tushar</h1>
 <h3 align="center">A BTech undergrad from IIITD with a passion for technology and a keen interest in solving real life problems.</h3>
 
-- 🧑‍🎓 I’m currently a CSSS student at **IIIT Delhi**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 🔭 I’m currently working with **Java & CPP.**
-
-- 📫 How to reach me **tushar20478@iiitd.ac.in**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tushar-yadav-596839225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-yadav-596839225" height="30" width="40" /></a>
