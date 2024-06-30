@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Tushar</h1>
-<h3 align="center">A BTech undergrad from IIITD with a passion for technology and a keen interest in solving real life problems.</h3>
+<h3 align="left">A BTech undergrad from IIITD with a passion for technology and a keen interest in solving real life problems.</h3>
+
+- I’m a CS undergraduate from **IIIT Delhi**
+
+- How to reach me **tushar20478@iiitd.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
